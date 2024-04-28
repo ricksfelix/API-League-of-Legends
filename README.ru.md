@@ -30,8 +30,14 @@ python Scrap.py
 - `r` = значок навыка "R"
 
 ## выполнение API
+```
+python main.py
+```
 
-> ## **СКОРО**
+## Документация
+После запуска Scrap.py и main.py
+
+Вы можете просмотреть документацию через [SWAGGER](http://127.0.0.1:8000/docs).
 
 ## Используемая документация:
   - [Communit Dragon](https://www.communitydragon.org/documentation)

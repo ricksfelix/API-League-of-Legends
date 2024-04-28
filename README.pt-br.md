@@ -30,8 +30,15 @@ python scrap.py
 - `r` = Icone da habilidade "R"
 
 ## Execução da API
+```
+python main.py
+```
 
-> ## **EM BREVE**
+## Documentação
+Após executar o scrap.py, e o main.py
+
+Você pode vizualizar a documentação através do [SWAGGER](http://127.0.0.1:8000/docs)
+
 
 ## Documentações Utilizadas:
  - [Communit Dragon](https://www.communitydragon.org/documentation)
