@@ -31,8 +31,14 @@ python scrap.py
 
 
 ## API execution
+```
+python main.py
+```
 
-> ## **COMING SOON**
+## Documentation
+After running scrap.py and main.py
+
+You can view the documentation through [SWAGGER](http://127.0.0.1:8000/docs)
 
 ## Documentation Used:
   - [Communit Dragon](https://www.communitydragon.org/documentation)
