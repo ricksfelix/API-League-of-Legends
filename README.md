@@ -42,4 +42,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+## Considerações / Considerations / Соображения
+**API feita por um fan, não temos nem um vinculo a RIOT GAMES**
 
+**API made by a fan, we don't even have a link to RIOT GAMES**
+
+**API сделан фанатом, у нас даже нет ссылки на RIOT GAMES**
